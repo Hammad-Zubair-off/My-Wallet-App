@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-Wallet-App/static/css/main.332ab1ff.css",
+    "main.js": "/My-Wallet-App/static/js/main.e2dff045.js",
+    "static/js/453.3d13382d.chunk.js": "/My-Wallet-App/static/js/453.3d13382d.chunk.js",
+    "index.html": "/My-Wallet-App/index.html",
+    "main.332ab1ff.css.map": "/My-Wallet-App/static/css/main.332ab1ff.css.map",
+    "main.e2dff045.js.map": "/My-Wallet-App/static/js/main.e2dff045.js.map",
+    "453.3d13382d.chunk.js.map": "/My-Wallet-App/static/js/453.3d13382d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.332ab1ff.css",
+    "static/js/main.e2dff045.js"
+  ]
+}
