@@ -1,0 +1,148 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.head-bg
+{
+  background-color: rgb(33, 33, 73);
+  color: white;
+  padding: 40px 0;
+}
+
+.incomehead
+{
+  color: rgb(72, 120, 223);
+  text-align:start;
+  padding: 40px 0 20px 40px;
+}
+
+.expensehead
+{
+  color:rgb(223, 15, 60) ;
+  text-align: start;
+  padding: 40px 0 20px 40px;
+}
+
+.IncomeHistory
+{
+  padding: 9px 40px;
+  border-bottom: .4px solid rgb(231, 231, 231);
+  display: flex;
+  justify-content: space-between;
+}
+
+.left
+{
+  float: left;
+  width: 50%;
+  height:100% ;
+  background-color: rgb(255, 255, 254);
+  font-weight: 400;
+}
+
+
+.right
+{
+  float: right;
+  width: 50%;
+  height:100% ;
+  background-color: rgb(255, 255, 254);
+  font-weight: 400;
+
+}
+
+.moneymanagement
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items:center;
+  margin-top: 20px;
+}
+
+.moneymanagement p
+{
+  margin: 1px solid black;
+  width: 30%;
+  height: 49px;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.incomemoney
+{
+  background-color:#3b9db8 ;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  align-items: center;
+}
+
+.expensemoney
+{
+  background-color:rgb(223, 15, 60) ;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  align-items: center;
+}
+
+
+.input-bg
+{
+  background-color: rgb(219, 219, 219);
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
+
+.inputform select,input,button,select option
+{
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding-left: 8px;
+  font-size: 15px;
+  margin: 0 1px;
+  font-weight: 500;
+}
+.inputform select:focus,input:focus,button:focus
+{
+  outline: none;
+  
+}
+
+select
+{
+  padding: 9px 2px 9px 8px;
+  font: bolder;
+}
+
+input[type='text']
+{
+  width:300px;
+  font-weight: 500;
+
+}
+input[type='number']
+{
+  width:100px;
+  font-weight: 500;
+
+}
+
+ button{
+  font-weight: bold;
+  padding: 12px;
+  font-family: sans-serif;
+ }
+
